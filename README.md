@@ -1,6 +1,7 @@
 ## Oii!Eu sou o Pedro Rufino
 
 - 🌱 Eu sou estudante de Engenharia de Software
+- 💻Conhecimentos básicos em PYTHON 
 
 <div>
   <a href="https://beacons.ai/pedrorufass">
@@ -8,8 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorufass&layout=compact&langs_count=16&theme=dark"/_>
 
 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-          
+  
 ##
 
 <div>
